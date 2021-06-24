@@ -981,7 +981,7 @@ Chat:FireServer("ITS VERY COOL SCRIPT 👌", "All")
 wait(2)
 Chat:FireServer("[!] Press F9 for Keybinds [!]", "All")
 wait(2)
-Chat:FireServer("Dc: el paxoi# 9457", "All")
+Chat:FireServer("Dc: el paxoi# 9328", "All")
 print([[
 [PAX] Hack Keybinds --(BY Paxoi)-- 
 
