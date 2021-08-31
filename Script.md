@@ -438,7 +438,7 @@ ZV8_Header.BorderSizePixel = 3
 ZV8_Header.Position = UDim2.new(0.00224215258, 0, 0, 0)
 ZV8_Header.Size = UDim2.new(0, 445, 0, 50)
 ZV8_Header.Font = Enum.Font.SourceSans
-ZV8_Header.Text = "PAX GUI - DC: el paxoi#9328"
+ZV8_Header.Text = "PAX GUI - DC: pax#9328"
 ZV8_Header.TextColor3 = Color3.new(0, 0, 0)
 ZV8_Header.TextSize = 20
 ZV8_Header.TextStrokeColor3 = Color3.new(0.976471, 0.976471, 0.976471)
@@ -981,7 +981,7 @@ Chat:FireServer("ITS VERY COOL SCRIPT 👌", "All")
 wait(2)
 Chat:FireServer("[!] Press F9 for Keybinds [!]", "All")
 wait(2)
-Chat:FireServer("Dc: el paxoi# 9328", "All")
+Chat:FireServer("Dc: pax#9328", "All")
 print([[
 [PAX] Hack Keybinds --(BY Paxoi)-- 
 
