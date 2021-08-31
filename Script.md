@@ -983,7 +983,7 @@ Chat:FireServer("[!] Press F9 for Keybinds [!]", "All")
 wait(2)
 Chat:FireServer("Dc: pax#9328", "All")
 print([[
-[PAX] Hack Keybinds --(BY Paxoi)-- 
+[PAX] Hack Keybinds --(BY Pax)-- 
 
 Press F to Fly 
 Press X to Noclip
